@@ -19,6 +19,8 @@ Create a new folder for your project and inside it, create two files: `index.htm
 ### Step 2: HTML Structure
 Open `index.html` in your text editor and set up the basic HTML structure:
 
+
+
 <!DOCTYPE html>
 <html>
     <title>Simple landing page using Html Css </title>
