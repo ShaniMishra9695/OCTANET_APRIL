@@ -16,4 +16,4 @@ Before we begin, make sure you have the following:
 
 Create a new folder for your project and inside it, create two files: `index.html` and `styles.css`.
 
-### Step 2: HTML Structure# OCTANET_APRIL
+### Step 2: HTML Structure
